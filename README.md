@@ -6,7 +6,7 @@ Homework week 2
 
 
 # Usage
-- To access the website please click on: [this link]
+- To access the website please click on: [this link] 
 
-- To access the codebase please click on: [this link]
+- To access the codebase please click on: [this link] (https://github.com/deanhay/week-2-CSS-advance-Portfolio)
 ## Snapshot

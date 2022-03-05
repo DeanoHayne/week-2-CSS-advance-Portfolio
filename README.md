@@ -6,9 +6,9 @@ Homework week 2
 I have made this portfolio to showcase my skills using CSS. 
 
 # Usage
-- To access the website please click on: [this link] (file:///C:/Users/HP%20Pavilion/Desktop/homework/week-2-CSS-advance-Portfolio/index.html)
+- To access the website please click on: [this link]()
 
-- To access the codebase please click on: [this link] (https://github.com/deanhay/week-2-CSS-advance-Portfolio)
+- To access the codebase please click on: [this link](https://github.com/deanhay/week-2-CSS-advance-Portfolio)
 
 
 ## Snapshot

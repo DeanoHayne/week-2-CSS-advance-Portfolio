@@ -75,14 +75,14 @@ p {
     font-size: 36px;
 }
 
-.hero {
-    height: 800px;
+
+.hero2 {
+    height: ;
     width: 100%;
-    margin-bottom: 25px;
-background-image:url();
-    background-size: cover;
-    background-position: center;
-display:flex
+    margin: 25px;
+    border:double black;
+    display:flex
+
 
 }
 

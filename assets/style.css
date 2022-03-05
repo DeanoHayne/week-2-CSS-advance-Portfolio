@@ -25,7 +25,7 @@ header h1 .seo {
 }
 
 header div {
-    padding-top: 15px;
+    padding-top: 1px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -79,12 +79,53 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-
-    background-image:url(.images/01-html-css-git-homework-demo.png);
+background-image:url();
     background-size: cover;
     background-position: center;
-
-
-
+display:flex
 
 }
+
+
+.card-container {
+    padding:200px;
+    flex-grow:1;
+    flex-shrink: 0;
+    flex-basis: 100%;
+}
+
+.card {
+    border: 2px;
+    border-radius: 20px;
+    padding:20px;
+    display:flex;
+    flex-direction:column;
+}
+
+.card  .card-header {
+    border:2px;
+    border-radius: 20px;
+    flex-direction: row;
+}
+
+@media screen and (max-width: 992px) {
+    .header div
+    {
+        background-color: #2a607c;
+        
+    }
+  }
+  
+  /* Large smartphones - navbar changes color */
+  @media screen and (max-width: 768px) {
+    .content {
+      background-color:#2a607c;
+    }
+  }
+  
+  /* Small smartphones - */
+  @media screen and (max-width: 576px) {
+    .content {
+        background-color:#2a607c;
+    }
+  }
